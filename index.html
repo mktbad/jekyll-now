@@ -9,4 +9,10 @@ layout: default
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
     </article>
   {% endfor %}
+  <h1>-deep_learning-</h1>
+  {% for post in site.categories.deep_learning %}
+    <article class="post">
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+    </article>
+  {% endfor %}
 </div>
