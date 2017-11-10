@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ゼロから作るDeepLearning
-category: deep_learning!
+category: dl!
 ---
 
 ## 第1章
