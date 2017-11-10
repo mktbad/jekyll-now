@@ -4,6 +4,10 @@ layout: default
 
 <div class="posts">
   <h1>-deep_learning-</h1>
+  {% for post in site.categories.deep_learning %}
+    <article class="post">
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+    </article>
   <h1>-others-</h1>
   {% for post in site.categories.others %}
     <article class="post">
