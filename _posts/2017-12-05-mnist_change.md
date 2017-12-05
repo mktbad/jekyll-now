@@ -1,7 +1,7 @@
 ---
 layout: post
 title: mnistではなく自前データセットを読み込ませる
-category: deep_learning
+category: dl
 ---
 
 ```
