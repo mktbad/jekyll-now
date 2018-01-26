@@ -26,3 +26,5 @@ self.data_X = np.empty((0,self.input_height,self.input_width,1), float)
 for image in self.images:
 　　　self.data_X = np.append(self.data_X, np.array([imread(image).reshape([self.input_height,self.input_width,1])]), axis=0)
 ```
+
+scipyを使ったこのやり方でjpgを扱うと画質が低下する。代替としてpillowなどでqualityを指定して扱う。
