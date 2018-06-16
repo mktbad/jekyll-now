@@ -5,4 +5,5 @@ layout: post
 categories: dl
 ---
 
-<iframe src="http://drive.google.com/uc?export=view&id=1P_zmK7E8G3z5rseucfwCYPYqfC0-hqQI" width="100%" height="100%"></iframe>
+[googleドライブにあげました](http://drive.google.com/uc?export=view&id=1P_zmK7E8G3z5rseucfwCYPYqfC0-hqQI)   
+~~誰かここにpdf埋め込む方法オシエテ~~
