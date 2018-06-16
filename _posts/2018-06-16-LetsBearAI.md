@@ -5,4 +5,4 @@ layout: pdf
 categories: dl
 ---
 
-<iframe src="https://github.com/mktbad/mktbad.github.io/blob/master/_posts/LetsBearAI.pdf" width="100%" height="100%"></iframe>
+<iframe src="https://drive.google.com/open?id=1P_zmK7E8G3z5rseucfwCYPYqfC0-hqQI" width="100%" height="100%"></iframe>
