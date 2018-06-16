@@ -1,7 +1,7 @@
 ---
 title: "人工知能入門会で使ったスライド"
 date: 2018-06-16
-layout: post
+layout: pdf
 categories: dl
 ---
 
