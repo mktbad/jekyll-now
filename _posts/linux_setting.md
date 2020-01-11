@@ -1,6 +1,11 @@
+---
+layout: post
+title: Linux設定
+category: others
+---
+
 + x11
     + .ssh/configでForwardX11 yes ForwardX11Trusted yes
-    + /etc/ssh/sshd_configでX11Forwarding yes　X11DisplayOffset 10　＝＞　いらない説
     + sudo service sshd restart
     + VcXsrvが自動的に起動されるようにする
     + sudo apt install x11-appsしてxeyesで動作確認
