@@ -50,9 +50,9 @@ sudo docker pull nvidia/cuda:10.1-cudnn7-devel-ubuntu18.04
 sudo docker pull pytorch/pytorch:1.3-cuda10.1-cudnn7-devel
 # Base run
 sudo docker run \
-    -it aaa \
     --name bbb \
     --gpus all \
     -v ~/docker/bbb/:/root/host/ \
+    -it aaa \
     bash
 ```
