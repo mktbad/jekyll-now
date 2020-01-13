@@ -53,6 +53,6 @@ sudo docker run \
     -it aaa \
     --name bbb \
     --gpus all \
-    -v ~/docker/xxx/:/root/host/ \
+    -v ~/docker/bbb/:/root/host/ \
     bash
 ```
